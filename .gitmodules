@@ -4,3 +4,6 @@
 [submodule "nnFormer"]
 	path = nnFormer
 	url = https://github.com/282857341/nnFormer.git
+[submodule "MedSegDiff"]
+	path = MedSegDiff
+	url = https://github.com/SuperMedIntel/MedSegDiff.git
