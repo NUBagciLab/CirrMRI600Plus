@@ -1,3 +1,6 @@
 [submodule "nnUNet"]
 	path = nnUNet
 	url = https://github.com/MIC-DKFZ/nnUNet.git
+[submodule "nnFormer"]
+	path = nnFormer
+	url = https://github.com/282857341/nnFormer.git
