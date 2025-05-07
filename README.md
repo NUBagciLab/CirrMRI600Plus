@@ -57,6 +57,16 @@ tqdm
 
 ---
 
+## 📥 Download Dataset
+
+The **CirrMRI600+** dataset is available for download:
+
+➡️ [Download CirrMRI600+ Dataset](https://osf.io/cuk24/)  
+📦 Size: ~15 GB  
+📝 Format: NIfTI (.nii.gz)
+
+---
+
 ## 📁 Dataset Structure
 
 Make sure your dataset is organized in the following format:
