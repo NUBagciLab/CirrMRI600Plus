@@ -146,10 +146,10 @@ If you use this dataset or code, please cite:
 
 ```bibtex
 @article{jha2024cirrmri600+,
-  title={CirrMRI600+: Large Scale MRI Collection and Segmentation of Cirrhotic Liver},
+  title={Large Scale MRI Collection and Segmentation of Cirrhotic Liver},
   author={Jha, Debesh and Susladkar, Onkar Kishor and Gorade, Vandan and Keles, Elif and Antalek, Matthew and Seyithanoglu, Deniz and Cebeci, Timurhan and Aktas, Halil Ertugrul and Kartal, Gulbiz Dagoglu and Kaymakoglu, Sabahattin and others},
-  journal={Nature Scientific data},
-  year={2024}
+  journal={Nature Scientific Data},
+  year={2025}
 }
 ```
 
