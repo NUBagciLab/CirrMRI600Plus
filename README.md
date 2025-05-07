@@ -157,6 +157,7 @@ If you use this dataset or code, please cite:
 ```bibtex
 @article{jha2024cirrmri600+,
   title={Large Scale MRI Collection and Segmentation of Cirrhotic Liver},
+  doi={https://arxiv.org/abs/2410.16296},
   author={Jha, Debesh and Susladkar, Onkar Kishor and Gorade, Vandan and Keles, Elif and Antalek, Matthew and Seyithanoglu, Deniz and Cebeci, Timurhan and Aktas, Halil Ertugrul and Kartal, Gulbiz Dagoglu and Kaymakoglu, Sabahattin and others},
   journal={Nature Scientific Data},
   year={2025}
