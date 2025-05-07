@@ -19,7 +19,7 @@ We provide implementations and training scripts for several popular and effectiv
 ### 🔹 SynergyNet3D (Custom Implementation)
 - Transformer-augmented 3D U-Net.
 - Multi-resolution ROI processing.
-- Implemented in `model/trans_3DUnet.py`.
+- Implemented in `synergynet/transunet`.
 - Trained using `train_lin.py`.
 
 ### 🔹 MONAI Baselines
@@ -136,7 +136,7 @@ python train_lin.py
 - **Learning Rate**: `1e-4`
 - **Batch Size**: `4`
 - **Epochs**: `1000`
-- **Checkpoint**: Saved every 5 epochs to `/datadrive/pan_dataset/zheyuan_model/`
+- **Checkpoint**: Saved every 5 epochs
 
 ---
 
