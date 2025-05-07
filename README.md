@@ -1,4 +1,4 @@
-# 🧠 CirrMRI600+
+# 🧠 Large Scale MRI Collection and Segmentation of Cirrhotic Liver
 
 This repository contains the **official implementation** for all baseline models used to benchmark our medical imaging dataset **CirrMRI600+**. It includes training pipelines, model configurations, and preprocessing scripts for 3D liver MRI segmentation tasks.
 
